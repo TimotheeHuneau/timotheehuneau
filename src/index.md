@@ -6,7 +6,7 @@ description-meta:
 og-url: https://basicpage.github.io
 location:
 email: contact@timotheehuneau.fr
-picture: profile.jpg
+picture: /img/profile.jpg
 picture-round: false
 side-by-side: true
 pronouns: he/him
@@ -17,7 +17,7 @@ scholar:
 hal:
 mastodon:
 github: TimotheeHuneau
-gitlab: 
+gitlab:
 bitbucket: 
 bluesky: 
 linkedin: 
