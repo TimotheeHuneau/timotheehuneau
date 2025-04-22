@@ -6,7 +6,7 @@ description-meta:
 og-url: https://timotheehuneau.github.io/timotheehuneau
 location:
 email: contact@timotheehuneau.fr
-picture: timotheehuneau/img/profile.jpg
+picture: img/profile.jpg
 picture-round: false
 side-by-side: true
 pronouns: he/him
