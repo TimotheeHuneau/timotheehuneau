@@ -3,7 +3,7 @@ title: Homepage
 author: Timothée Huneau
 shortbio: M2 student in logic/CS
 description-meta: 
-og-url: https://timotheehuneau.github.io/timotheehuneau
+og-url: https://timotheehuneau.github.io
 location:
 email: contact@timotheehuneau.fr
 picture: img/profile.jpg
